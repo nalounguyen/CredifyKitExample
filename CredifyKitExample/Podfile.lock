@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.4.1)
+  - CredifyCryptoSwift (1.1.0)
+  - KeychainAccess (4.2.2)
+  - Kingfisher (6.2.1)
+  - lottie-ios (3.2.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - CredifyCryptoSwift
+  - KeychainAccess
+  - Kingfisher
+  - lottie-ios
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CredifyCryptoSwift
+    - KeychainAccess
+    - Kingfisher
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  CredifyCryptoSwift: 884ddc6fce7814a6fb9aff621910bc4e1d95266e
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  Kingfisher: e71c6fac2aebb1262888cabc2cb13d313362a48f
+  lottie-ios: 106e92eaf11fbed0a76590b4cdb9b5ec26123ff7
+
+PODFILE CHECKSUM: e8ac6dcb5fea31a7177af458d48b9220f8e67cae
+
+COCOAPODS: 1.10.1
